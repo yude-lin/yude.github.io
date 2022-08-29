@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog test</title>
+    <link>http://yude.github.io/</link>
+    <description>Recent content on blog test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Aug 2022 14:26:33 +0800</lastBuildDate><atom:link href="http://yude.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first Lastpost</title>
+      <link>http://yude.github.io/post/lastpost/</link>
+      <pubDate>Mon, 29 Aug 2022 14:26:33 +0800</pubDate>
+      
+      <guid>http://yude.github.io/post/lastpost/</guid>
+      <description>YR09864179</description>
+    </item>
+    
+  </channel>
+</rss>
