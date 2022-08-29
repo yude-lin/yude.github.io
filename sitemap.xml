@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yude.github.io/</loc>
-    <lastmod>2022-08-29T14:26:33+08:00</lastmod>
+    <loc>http://yude.github.io/post/2ndpost/</loc>
+    <lastmod>2022-08-29T15:05:55+08:00</lastmod>
   </url><url>
-    <loc>http://yude.github.io/post/lastpost/</loc>
-    <lastmod>2022-08-29T14:26:33+08:00</lastmod>
+    <loc>http://yude.github.io/</loc>
+    <lastmod>2022-08-29T15:05:55+08:00</lastmod>
   </url><url>
     <loc>http://yude.github.io/post/</loc>
+    <lastmod>2022-08-29T15:05:55+08:00</lastmod>
+  </url><url>
+    <loc>http://yude.github.io/post/lastpost/</loc>
     <lastmod>2022-08-29T14:26:33+08:00</lastmod>
   </url><url>
     <loc>http://yude.github.io/categories/</loc>
